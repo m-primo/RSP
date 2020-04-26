@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-xhdpi-v4/scissor.png
+SHA1-Digest: tBVZdbaBzN9E8cTtMwO3INmYlJQ=
+
+Name: res/layout/store.xml
+SHA1-Digest: t/+FNXkE5U5l0zXy6zvjBQk2Lpg=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA1-Digest: 3WLUAhyZq2kixa9IKN6n3ZvGz78=
+
+Name: res/layout/main.xml
+SHA1-Digest: rJb8bb29QnNlvTewPmobW13Zdv8=
+
+Name: res/layout/store_items.xml
+SHA1-Digest: /J0FhUwidER3+7q3v5Fg2xY6O+g=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: Zk+nM9vTCQyZecVxKO/dGDCWK3o=
+
+Name: res/drawable-xhdpi-v4/rock.png
+SHA1-Digest: m+zOH5sQjFgsRX6KAitVox+BOqk=
+
+Name: AndroidManifest.xml
+SHA1-Digest: WUQT8ZxZW3gGk/xSanqcj6cpbaw=
+
+Name: res/layout/game.xml
+SHA1-Digest: LkLjcLAEzJvPeLojNE28Rau2ysY=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA1-Digest: BWRAoPVos58zRwxvNCq1nyPEM9U=
+
+Name: resources.arsc
+SHA1-Digest: 0Er2g4xf9VoULt9ADZYxl7963zY=
+
+Name: res/drawable-xhdpi-v4/paper.png
+SHA1-Digest: aVatn+fG15vbZmzZL1OLH4d1eik=
+
+Name: classes.dex
+SHA1-Digest: B1MrS2mVAc6g+wVgYJFwVORdqhE=
+
+Name: res/drawable-xhdpi-v4/coins.png
+SHA1-Digest: gmphTwkmFzWYx4GxVfg+6rKv8Fk=
+
